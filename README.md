@@ -2,6 +2,7 @@
 
 algorithm solutions implemented in python
 
-<a href="https://www.swexpertacademy.com/main/userpage/code/userProblemBoxDetail.do?probBoxId=AV5Po0AqAPwDFAUq&leftPage=1&curPage=userpage&userId=SWEAC">
-  Samsung SW Expert Academy</a>
+### Samsung SW Expert Academy
+* `sw_test/4013.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH">
+  4013.특이한 자석</a>
 
