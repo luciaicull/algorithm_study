@@ -7,3 +7,5 @@ algorithm solutions implemented in python
   4013. 특이한 자석</a>
 * `sw_test/5644.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo">
   5644. 무선 충전</a>
+* `sw_test/1953.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq">
+  1953. 탈주범 검거</a>
