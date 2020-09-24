@@ -9,3 +9,5 @@ algorithm solutions implemented in python
   5644. 무선 충전</a>
 * `sw_test/1953.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq">
   1953. 탈주범 검거</a>
+* `sw_test/5658.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo">
+  5658. 보물상자 비밀번호</a>
