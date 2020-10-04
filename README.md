@@ -12,8 +12,10 @@ algorithm solutions implemented in python
 * `sw_test/5658.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo">
   5658. 보물상자 비밀번호</a>
 * `sw_test/2105.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">
-  5658. 디저트 카페</a>
+  2105. 디저트 카페</a>
 * `sw_test/5656.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo">
-  5658. 벽돌 깨기</a>
+  5656. 벽돌 깨기</a>
 * `sw_test/4014.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH">
-  5658. 활주로 건설</a>
+  4014. 활주로 건설</a>
+* `sw_test/2382.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl">
+  2382. 미생물 격리</a>
