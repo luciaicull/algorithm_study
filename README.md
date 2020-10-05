@@ -19,3 +19,5 @@ algorithm solutions implemented in python
   4014. 활주로 건설</a>
 * `sw_test/2382.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl">
   2382. 미생물 격리</a>
+* `sw_test/2117.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu">
+  2382. 홈 방범 서비스</a>
