@@ -27,3 +27,5 @@ algorithm solutions implemented in python
   5653. 줄기세포 배양</a>
 * `sw_test/1949.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq">
   1949. 등산로 조성</a>
+* `sw_test/5650.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo">
+  5650. 핀볼 게임</a>
