@@ -29,3 +29,7 @@ algorithm solutions implemented in python
   1949. 등산로 조성</a>
 * `sw_test/5650.py`: <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo">
   5650. 핀볼 게임</a>
+
+### Baekjoon
+* `baekjoon/13460.py`: <a href="https://www.acmicpc.net/problem/13460">
+  13460. 구슬 탈출 2 : BFS</a>
