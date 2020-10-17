@@ -33,3 +33,5 @@ algorithm solutions implemented in python
 ### Baekjoon
 * `baekjoon/13460.py`: <a href="https://www.acmicpc.net/problem/13460">
   13460. 구슬 탈출 2 : BFS</a>
+* `baekjoon/15684.py`: <a href="https://www.acmicpc.net/problem/15684">
+  15684. 사다리 조작 : BFS</a>
